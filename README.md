@@ -17,8 +17,10 @@ This system provides a complete suite of tools for placement analysis, including
 -   **🔒 Secure Authentication:** Keep sensitive data safe.
 -   **🧠 Optional Local AI Assistant:** Chat with your data using Ollama.
 
-***
+## 🛠️Model Insight
+![imagealt](https://github.com/akshit4u9511/Student-Placment-Analysis/blob/32f583dad4f319eb6282db1468992a1b1d169b51/Model%20Insight.png)
 
+***
 ## 🚀 Core Features
 
 ### A. Dashboard Analytics
@@ -121,4 +123,5 @@ npm run dev
 **Akshit Sharma**
 
 📧 **Email:** [akshitsharma2468@gmail.com](mailto:akshitsharma2468@gmail.com)
+
 

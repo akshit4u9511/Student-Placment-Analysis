@@ -8,7 +8,7 @@ This is a great project! Here is a rewritten version of your README that is form
 **Smart Placement Analytics Dashboard** is a full-stack, entirely local analytics platform designed to empower colleges and universities with deep insights into student placement data. It combines interactive dashboards, robust machine learning models, and optional local LLM integration to provide a comprehensive view of placement trends without relying on any paid APIs.
 
 ## ✨ Overview
-
+![imagealt](https://github.com/akshit4u9511/Student-Placment-Analysis/blob/420d76c8352d1a96686160a8d16ed8860f24923a/Overview.png)
 This system provides a complete suite of tools for placement analysis, including:
 
 -   **📊 Interactive Dashboards:** Visualize key placement metrics.
@@ -121,3 +121,4 @@ npm run dev
 **Akshit Sharma**
 
 📧 **Email:** [akshitsharma2468@gmail.com](mailto:akshitsharma2468@gmail.com)
+

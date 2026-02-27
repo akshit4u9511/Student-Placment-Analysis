@@ -1,0 +1,3 @@
+File: Final_MUJ_CSE_Placement_Complete_Dataset.csv
+Columns: ['student_id', 'student_name', 'gender', 'department', 'graduation_year', 'cgpa', 'backlogs', 'internships', 'projects', 'certifications', 'aptitude_score', 'communication_score', 'placed', 'company', 'Company', 'role', 'salary', 'salary_bucket']
+

@@ -1,7 +1,3 @@
-This is a great project! Here is a rewritten version of your README that is formatted for GitHub, using markdown features to make it visually appealing, professional, and easy to read.
-
-***
-
 # 🎓 Smart Placement Analytics Dashboard
 
 
@@ -123,5 +119,6 @@ npm run dev
 **Akshit Sharma**
 
 📧 **Email:** [akshitsharma2468@gmail.com](mailto:akshitsharma2468@gmail.com)
+
 
 
